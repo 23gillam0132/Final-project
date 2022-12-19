@@ -1,3 +1,14 @@
+/*
+ * Program Name: The Ants Who Climbed Mount Floral
+ * Programmer: Trevor Gillam
+ * Date: 12/19/2022
+ *
+ * Description: TAWCMF is a game where you summon ants to journey up a mountain. The game has achievements that unlock
+ * after certain conditions are met.
+ * 
+ */
+
+
 namespace TheAntsWhoClimbedMountFloral
 {
     internal static class Program
